@@ -1,6 +1,6 @@
 # Test Repository
 
-This repository is solely for testing purposes. It is not intended for any production use. 
+This repository is solely for testing purposes. It is not intended for any production use! 
 
 The purpose of this repository is to test different features, try out new ideas and experiment with various tools and technologies. You may find various branches or commits in this repository, each of them can be used for a specific test or a test set.
 
